@@ -279,7 +279,7 @@ and (orientation: portrait) {
   }
 
   #slideshow {
-    padding: 0 5% 5%;
+    padding: 0 5% 10%;
   }
 
   #slideshow h2 {
